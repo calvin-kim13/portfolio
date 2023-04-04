@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"index.js -> ../src/components/AboutUs":{id:5857,files:["static/chunks/857.68e292da85a317de.js"]},"index.js -> ../src/components/ProjectDetails":{id:8639,files:["static/chunks/639.d87a1cbf4e129093.js"]}}
+self.__REACT_LOADABLE_MANIFEST={"index.js -> ../src/components/AboutUs":{"id":"index.js -> ../src/components/AboutUs","files":["static/chunks/src_components_AboutUs_js.js"]},"index.js -> ../src/components/ProjectDetails":{"id":"index.js -> ../src/components/ProjectDetails","files":["static/chunks/src_components_ProjectDetails_js.js"]}}
