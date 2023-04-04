@@ -220,6 +220,57 @@ const ProjectDetails = () => {
         </div>
       </div>
       {/* Project Ends */}
+      {/* Project Starts */}
+      <div
+        data-panel="panel-5"
+        className={activeProject == 5 ? "bl-show-work" : ""}
+      >
+        <div className="row">
+          {/* Project Main Content Starts */}
+          <div className="col s12 l6 xl6 section-padding section-padding-right-none">
+            <img
+              className="responsive-img"
+              src="images/projects/stock.jpg"
+              alt="project"
+            />
+          </div>
+          {/* Project Main Content Ends */}
+          {/* Project Details Starts */}
+          <div className="col s12 l6 xl6 section-padding">
+            <h3 className="font-weight-700 uppercase">Market Talk</h3>
+            <ul className="project-details second-font">
+              <li>
+                <i className="fa fa-calendar-o" />
+                <span className="font-weight-700"> Start Date </span>:{" "}
+                <span className="font-weight-400 uppercase">12/2021</span>
+              </li>
+              <li>
+                <i className="fa fa-calendar-check-o" />
+                <span className="font-weight-700"> End Date </span>:{" "}
+                <span className="font-weight-400 uppercase">01/2022</span>
+              </li>
+              <li>
+                <i className="fa fa-cogs" />{" "}
+                <span className="font-weight-700"> Used Technologies</span> :{" "}
+                <span className="font-weight-400 uppercase">
+                  Html, css, javascript, rest api
+                </span>
+              </li>
+            </ul>
+            <hr />
+            <a
+              href="https://github.com/calvin-kim13/marketTalk"
+              target="_blank"
+              rel="noreferrer"
+              className="waves-effect waves-light btn font-weight-700"
+            >
+              github repo <i className="fa fa-external-link" />
+            </a>
+          </div>
+          {/* Project Details Ends */}
+        </div>
+      </div>
+      {/* Project Ends */}
 
       {/* Portfolio Navigation Starts */}
       <nav>
