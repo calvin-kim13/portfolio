@@ -16,6 +16,21 @@ const Experience = () => (
         {/* Single Experience Starts */}
         <div className="resume-content">
           <h6 className="uppercase">
+            <span>Frontend Developer - </span>Victory TKD Center
+          </h6>
+          <span className="date">
+            <i className="fa fa-calendar-o" /> Oct 2022 - Apr 2023
+          </span>
+          <p>
+            Contract role where I was required to utilize Next.js and Tailwind
+            CSS to develop a highly responsive user interface.
+          </p>
+        </div>
+        {/* Single Experience Ends */}
+        <span className="separator" />
+        {/* Single Experience Starts */}
+        <div className="resume-content">
+          <h6 className="uppercase">
             <span>Web Developer - </span>Fishhook
           </h6>
           <span className="date">
@@ -25,21 +40,6 @@ const Experience = () => (
             Freelance role in which I developed multiple web pages for a client
             using JavaScript, HTML, CSS, and PHP, refactoring over 1000 lines of
             code for an improved user experience and interface.
-          </p>
-        </div>
-        {/* Single Experience Ends */}
-        <span className="separator" />
-        {/* Single Experience Starts */}
-        <div className="resume-content">
-          <h6 className="uppercase">
-            <span>Frontend Developer - </span>Victory TKD Center
-          </h6>
-          <span className="date">
-            <i className="fa fa-calendar-o" /> Apr 2022 - Sep 2022
-          </span>
-          <p>
-            Contract role where I was required to utilize React.js and
-            JavaScript to develop a highly responsive user interface.
           </p>
         </div>
         {/* Single Experience Ends */}
@@ -157,8 +157,7 @@ const Skills = () => (
               <h6 className="uppercase">next js</h6>
               <p>
                 <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
-                <i className="fa fa-star" />
-                <i className="fa fa-star-half-empty" />
+                <i className="fa fa-star" /> <i className="fa fa-star" />{" "}
                 <i className="fa fa-star-o" />
               </p>
             </div>
