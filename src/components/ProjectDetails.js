@@ -192,12 +192,12 @@ const ProjectDetails = () => {
               <li>
                 <i className="fa fa-calendar-o" />
                 <span className="font-weight-700"> Start Date </span>:{" "}
-                <span className="font-weight-400 uppercase">04/2022</span>
+                <span className="font-weight-400 uppercase">02/2022</span>
               </li>
               <li>
                 <i className="fa fa-calendar-check-o" />
                 <span className="font-weight-700"> End Date </span>:{" "}
-                <span className="font-weight-400 uppercase">04/2022</span>
+                <span className="font-weight-400 uppercase">02/2022</span>
               </li>
               <li>
                 <i className="fa fa-cogs" />{" "}
