@@ -22,8 +22,15 @@ const Experience = () => (
             <i className="fa fa-calendar-o" /> Oct 2022 - Apr 2023
           </span>
           <p>
-            Contract role where I was required to utilize Next.js and Tailwind
-            CSS to develop a highly responsive user interface.
+            Contract role where I designed and developed a highly-responsive web
+            application with Next.js and Tailwind CSS. <br />
+            <a
+              href="https://www.victorytkdcenter.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View Website
+            </a>
           </p>
         </div>
         {/* Single Experience Ends */}
