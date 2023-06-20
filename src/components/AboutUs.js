@@ -28,6 +28,7 @@ const Experience = () => (
               href="https://www.victorytkdcenter.com/"
               target="_blank"
               rel="noreferrer"
+              style={{ color: "#4169e1" }}
             >
               View Website
             </a>
