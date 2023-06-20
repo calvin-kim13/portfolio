@@ -316,7 +316,7 @@ const AboutUs = () => {
                 </ul>
               </div>
               <a
-                href="https://docs.google.com/document/d/1p8DRidh4qIpikrJjJAPMERjFCKRj5fonEWZwZv6g80o/edit?usp=sharing"
+                href="https://drive.google.com/file/d/1kqLyGu9MSMxFSh-URlz6gtpqNMz8otJk/view?usp=sharing"
                 className="btn font-weight-700"
                 target="_blank"
                 rel="noreferrer"
