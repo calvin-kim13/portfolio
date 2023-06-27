@@ -19,11 +19,11 @@ const Experience = () => (
             <span>Frontend Developer - </span>Victory TKD Center
           </h6>
           <span className="date">
-            <i className="fa fa-calendar-o" /> Oct 2022 - Apr 2023
+            <i className="fa fa-calendar-o" /> Mar 2021 - Apr 2023
           </span>
           <p>
-            Contract role where I designed and developed a highly-responsive web
-            application with Next.js and Tailwind CSS. <br />
+            Developed and maintained a highly-responsive web application for
+            commercial use with Next.js and Tailwind CSS. <br />
             <a
               href="https://www.victorytkdcenter.com/"
               target="_blank"
@@ -317,7 +317,7 @@ const AboutUs = () => {
                 </ul>
               </div>
               <a
-                href="https://drive.google.com/file/d/1kqLyGu9MSMxFSh-URlz6gtpqNMz8otJk/view?usp=sharing"
+                href="https://drive.google.com/file/d/1bswAbZ-coX3i2hGwdQovgTtZk7XALHBs/view?usp=sharing"
                 className="btn font-weight-700"
                 target="_blank"
                 rel="noreferrer"

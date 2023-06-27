@@ -68,7 +68,7 @@ const GetInTouch = () => {
                   </li>
                   <li className="resume">
                     <a
-                      href="https://drive.google.com/file/d/1kqLyGu9MSMxFSh-URlz6gtpqNMz8otJk/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1bswAbZ-coX3i2hGwdQovgTtZk7XALHBs/view?usp=sharing"
                       target="_blank"
                       rel="noreferrer"
                     >
